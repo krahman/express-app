@@ -1,0 +1,5 @@
+# To ignore node_modules folder
+node_modules
+
+# To ignore idea folder
+.idea

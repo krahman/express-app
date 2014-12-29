@@ -1,0 +1,27 @@
+{
+  "name": "express-app",
+  "version": "0.0.1",
+  "description": "quick express app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/krahman/express-app.git"
+  },
+  "keywords": [
+    "node.js",
+    "express.js"
+  ],
+  "author": "Khal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krahman/express-app/issues"
+  },
+  "homepage": "https://github.com/krahman/express-app",
+  "dependencies": {
+    "express": "^4.10.6",
+    "mongoose": "^3.8.21"
+  }
+}
