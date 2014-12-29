@@ -1,8 +1,8 @@
 # How to start
 
-## Sebelum mulai!
+## Sebelum memulai!
 - Pastikan node.js telah terinstall di pc kamu
-- Kalo belum terinstall [lihat di sini](http://github.com/krahman) cara install Node.js
+- Kalo belum terinstall [download di sini](http://nodejs.org/download/)
 
 ## Initialize node project
 - run 'npm init'
